@@ -1,4 +1,3 @@
-# Privacy Policy
 **Last Updated: February 5, 2026**
 Brilbox ("we", "us", or "our") operates the Dungeon Merge mobile application (the "App"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our App.
 ## Information We Collect
